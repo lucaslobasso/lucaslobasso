@@ -2,7 +2,7 @@
 
 I have more than 4 years of experience as a Full-Stack Web Developer in the .NET Framework, both implementing new features and fixing bugs as well as developing RESTful APIs with authentication through Identity Server.
 
-Work with both SQL and NoSQL databases, including Firebase, and build apps from scratch with technologies like React, React Native, Electron, and Flutter.
+Worked with both SQL and NoSQL databases, including Firebase, and build apps from scratch with technologies like React, React Native, Electron, and Flutter.
 
 I always keep in mind the reusability and cleanliness of the code I write and the UI/UX design of the projects I work on. Also, I am constantly learning and interested in new languages and frameworks, <strong>I like to build stuff</strong>.
 
