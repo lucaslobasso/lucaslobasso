@@ -1,6 +1,6 @@
 ## Hi there 👋 
 
-I have more than 4 years of experience as a Full-Stack Web Developer in the .NET Framework, both implementing new features and fixing bugs as well as developing RESTful APIs with authentication through Identity Server.
+I have more than 5 years of experience as a Full-Stack Web Developer in the .NET Framework, both implementing new features and fixing bugs as well as developing RESTful APIs with authentication through Identity Server.
 
 Worked with both SQL and NoSQL databases, including Firebase, and build apps from scratch with technologies like React, React Native, Electron, and Flutter.
 
@@ -22,8 +22,10 @@ I always keep in mind the reusability and cleanliness of the code I write and th
 
 ## Frameworks & libraries
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![React](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![ReactNative](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![Expo](https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Electron](https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9)
