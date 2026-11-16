@@ -12,9 +12,9 @@ C# · .NET · SQL Server · TypeScript · Docker · Next.js · React · React Na
 
 ### What I've built
 
-- **[Wait! Gotta tune](https://github.com/lucaslobasso/wait-gotta-tune)**: a simple chromatic
+- **[Wait, Gotta Tune!](https://github.com/lucaslobasso/wait-gotta-tune)** : a simple chromatic
   tuner for web, Android and iOS. Expo / React Native.
-- **[Croessant](https://github.com/lucaslobasso/croessant)**: the fastest way to issue ARCA
+- **[Croessant](https://github.com/lucaslobasso/croessant)** : the fastest way to issue ARCA
   invoices (Factura C) from your desktop. Electron, Linux / macOS / Windows.
 - **And many Claude Code tools** that I use every day:
   [launcher](https://github.com/lucaslobasso/claude-launcher) ·
