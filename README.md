@@ -17,6 +17,8 @@ C# · .NET · SQL Server · TypeScript · SCSS · Docker · Next.js · React · 
   invoices (Factura C) from your desktop. Electron, Linux / macOS / Windows.
 - **[jsLogger](https://github.com/lucaslobasso/js-logger)** : self-hosted browser error logging in
   2.5 KB. Errors, rejections and failed requests go to your own endpoint. TypeScript, React / Vue / Angular.
+- **[wifi-ethernet-failover](https://github.com/lucaslobasso/wifi-ethernet-failover)** : keeps Wi-Fi connected
+  while the Ethernet cable is plugged in on Windows, so unplugging it never leaves you offline. One PowerShell script.
 - **And many Claude Code tools** that I use every day:
   [launcher](https://github.com/lucaslobasso/claude-launcher) ·
   [taskbar](https://github.com/lucaslobasso/claude-taskbar) ·
