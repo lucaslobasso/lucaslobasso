@@ -9,7 +9,7 @@ I just like to build stuff.
 
 ### Day to day
 
-C# · .NET · SQL Server · TypeScript · Docker · Next.js · React · React Native · Electron
+C# · .NET · SQL Server · TypeScript · SCSS · Docker · Next.js · React · React Native · Electron
 
 ### What I've built
 
