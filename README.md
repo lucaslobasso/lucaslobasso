@@ -2,8 +2,9 @@
 
 Self-taught software & web developer from Argentina 🇦🇷. Building for 8+ years across the whole stack, mostly with .NET and TypeScript. 
 
-I just like to create stuff.
+_I just like to create stuff._
 
+---
 ### Day to day
 
 C# · .NET · SQL Server · TypeScript · SCSS · Docker · Next.js · React · React Native · Electron
