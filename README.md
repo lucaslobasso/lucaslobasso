@@ -19,6 +19,8 @@ C# · .NET · SQL Server · TypeScript · SCSS · Docker · Next.js · React · 
   2.5 KB. Errors, rejections and failed requests go to your own endpoint. TypeScript, React / Vue / Angular.
 - **[wifi-ethernet-failover](https://github.com/lucaslobasso/wifi-ethernet-failover)** : keeps Wi-Fi connected
   while the Ethernet cable is plugged in on Windows, so unplugging it never leaves you offline. One PowerShell script.
+- **[Taskbar Glance](https://github.com/lucaslobasso/taskbar-glance)** : the weather in the Windows 11 taskbar,
+  with a warning when rain is coming. A 1.6 MB native exe, no API key. C# / Native AOT.
 - **And many Claude Code tools** that I use every day:
   [launcher](https://github.com/lucaslobasso/claude-launcher) ·
   [taskbar](https://github.com/lucaslobasso/claude-taskbar) ·
