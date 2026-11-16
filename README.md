@@ -15,6 +15,8 @@ C# · .NET · SQL Server · TypeScript · SCSS · Docker · Next.js · React · 
   tuner for web, Android and iOS. Expo / React Native.
 - **[Croessant](https://github.com/lucaslobasso/croessant)** : the fastest way to issue ARCA
   invoices (Factura C) from your desktop. Electron, Linux / macOS / Windows.
+- **[jsLogger](https://github.com/lucaslobasso/js-logger)** : self-hosted browser error logging in
+  2.5 KB. Errors, rejections and failed requests go to your own endpoint. TypeScript, React / Vue / Angular.
 - **And many Claude Code tools** that I use every day:
   [launcher](https://github.com/lucaslobasso/claude-launcher) ·
   [taskbar](https://github.com/lucaslobasso/claude-taskbar) ·
