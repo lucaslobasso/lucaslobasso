@@ -1,6 +1,6 @@
 # Helloooo, I'm Lucas 👋
 
-Self-taught software developer from Argentina 🇦🇷. Building software for 8+ years across the whole stack, mostly with .NET and TypeScript. 
+Self-taught software & web developer from Argentina 🇦🇷. Building software for 8+ years across the whole stack, mostly with .NET and TypeScript. 
 
 I just like to build stuff.
 
