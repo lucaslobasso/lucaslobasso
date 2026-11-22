@@ -21,6 +21,8 @@ C# · .NET · SQL Server · TypeScript · SCSS · Docker · Next.js · React · 
   while the Ethernet cable is plugged in on Windows, so unplugging it never leaves you offline. One PowerShell script.
 - **[Taskbar Glance](https://github.com/lucaslobasso/taskbar-glance)** : the weather in the Windows 11 taskbar,
   with a warning when rain is coming. A 1.6 MB native exe, no API key. C# / Native AOT.
+- **[start-uninstall](https://github.com/lucaslobasso/start-uninstall)** : makes Start's right-click Uninstall on a
+  Windows 11 desktop app run its real uninstaller, not the unfiltered Installed apps page. C# / Native AOT.
 - **[VLR Calendar](https://github.com/lucaslobasso/vlr-calendar)** : an "Add to Google Calendar" icon on single
   matches on VLR.gg, so you save only the Valorant matches you want to watch. Chrome / Firefox (Zen) extension.
 - **And many Claude Code tools** that I use every day:
